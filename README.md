@@ -1,2 +1,2 @@
 # Bloggo
-This is my personal blog page
+This is my personal introduction page
