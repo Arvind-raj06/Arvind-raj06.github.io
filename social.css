@@ -1,14 +1,12 @@
-
-mydiv{
-  margin:0;
-  padding:0;
-  background: #dedede;
+contact{
+  margin: 0;
+  padding: 0;
 }
 
 ul {
   position: absolute;
   left:50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, 1100%);
   margin:0;
   padding:0;
   display: flex;
