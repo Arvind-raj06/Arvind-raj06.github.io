@@ -54,6 +54,10 @@ window.onload = function() {
   document.body.appendChild(css);
 };
 
+document.getElementById("href").onclick = function () {
+        location.href = "#section2";
+};
+
 $(function() {
 $('a[href*=#]').on('click', function(e) {
   e.preventDefault();
