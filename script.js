@@ -56,6 +56,3 @@ window.onload = function() {
 $(window).load(function() {
   $("body").removeClass("preload");
 });
-document.getElementById("href").onclick = function () {
-        location.href = "#section2";
-};

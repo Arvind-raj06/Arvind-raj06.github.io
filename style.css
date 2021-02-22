@@ -39,7 +39,7 @@ section h1 {
   margin: 0.4em 0;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  color: #dcdcdc;
+  color: #fff;
   text-align: center;
   white-space: nowrap;
 }
@@ -166,10 +166,4 @@ section h1 {
 
 img, figure {
     max-width: 100%;
-}
-.preload * {
-  -webkit-transition: none !important;
-  -moz-transition: none !important;
-  -ms-transition: none !important;
-  -o-transition: none !important;
 }
